@@ -9,6 +9,5 @@
 composer.*
 configuration.json
 configuracion.json
-*.txt
 *.pyc
 *.output
